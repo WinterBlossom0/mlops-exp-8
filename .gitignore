@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.matplotlib/
+model1.pkl
+metrics.txt
+model_results.png
+report.md
+flask.log
+api_response.json
